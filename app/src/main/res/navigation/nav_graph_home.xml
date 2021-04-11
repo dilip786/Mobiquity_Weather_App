@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/nav_graph_main_activity"
+    app:startDestination="@id/homeFragment">
+
+    <fragment
+        android:id="@+id/homeFragment"
+        android:name="com.dilip.android.mobiquity_weather_app.ui.fragments.HomeFragment"
+        android:label="LocationsList">
+        <action
+            android:id="@+id/action_homeFragment_to_mapFragment"
+            app:destination="@id/mapFragment" />
+        <action
+            android:id="@+id/action_homeFragment_to_oneDayForecast"
+            app:destination="@id/oneDayForecast" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/mapFragment"
+        android:name="com.dilip.android.mobiquity_weather_app.ui.fragments.MapFragment"
+        android:label="Map" />
+
+    <fragment
+        android:id="@+id/oneDayForecast"
+        android:name="com.dilip.android.mobiquity_weather_app.ui.fragments.OneDayForecastFragment"
+        android:label="Forecast" />
+</navigation>

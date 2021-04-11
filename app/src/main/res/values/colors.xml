@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ff669900</color>
+    <color name="colorPrimary_dark">#4D7702</color>
+    <color name="colorPrimary_click">#B6D677</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="text_color_black">#141414</color>
+    <color name="text_color_blue">#1BB9F7</color>
+    <color name="red_clicked">#bf3430</color>
+    <color name="red_dark">#D82D29</color>
+    <color name="dark_grey">#838181</color>
+    <color name="paleGrey">#CECECE</color>
+    <color name="semitransparent_black">#AA333333</color>
+    <color name="white">#FFFFFF</color>
+    <color name="light_white">#CFCDCD</color>
+    <color name="tertiaryText">#B6B5B5</color>
+    <color name="lightGrey">#55000000</color>
+    <color name="transparent">#00FFFFFF</color>
+    <color name="veryLightGray">#e6e6e6</color>
+    <color name="lightGreyBackground">#F8F7F7</color>
+    <color name="red">#FF0000</color>
+    <color name="red_light">#EC7272</color>
+    <color name="homePageGrey">#F1F1F1</color>
+    <color name="black">#000000</color>
+    <color name="tooltipBackground">#CC0C0C0C</color>
+    <color name="semi_trans">#80000000</color>
+    <color name="grey_60_transparent">#66888787</color>
+    <color name="deliver_time_bg">#D5F6FE</color>
+    <color name="delivered_bg">#4CB114</color>
+    <color name="out_for_deliver_bg">#5EC2BF</color>
+    <color name="pending">#E58528</color>
+</resources>

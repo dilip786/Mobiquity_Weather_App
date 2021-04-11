@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="sample_city_hyderabad">Hyderabad</string>
+    <string name="sample_temperature">Today\'s Temperature is 35 ℃</string>
+    <string name="search_to_area_street_name">Search to Area,Street Name</string>
+    <string name="add_more_details">Add more details</string>
+    <string name="location_name">Location name</string>
+    <string name="save">Save</string>
+    <string name="latlang_text">Lat: %s, Long: %s</string>
+    <string name="retry">RETRY</string>
+    <string name="whoops">Whoops</string>
+    <string name="okay">Okay</string>
+    <string name="humidity">Humidity : %d&#37; </string>
+    <string name="pressure">Pressure : %d; </string>
+    <string name="no_internet">Slow or no internet connection.\n Please check your internet settings</string>
+    <string name="looks_like_you_don_t_have_locations_click_here_to_add">Looks like you don\'t have locations, Click here to add</string>
+</resources>
