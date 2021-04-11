@@ -9,6 +9,11 @@
 * Rxjava2.
 * Material Designs
 
+### Demo Video
+
+<img src="https://user-images.githubusercontent.com/10658016/114317530-29f64500-9b26-11eb-98f4-2beac1afa595.gif?raw=true" alt="Home Page" width="300"/>
+</p>
+
 ### Demo Screenshots
 
 <p float="left">
@@ -21,10 +26,7 @@
   <img src="https://user-images.githubusercontent.com/10658016/114316660-10eb9500-9b22-11eb-870e-9b37c077e703.png" width="250" />
 </p>
 
-### Demo Video
 
-<img src="https://user-images.githubusercontent.com/10658016/114317530-29f64500-9b26-11eb-98f4-2beac1afa595.gif?raw=true" alt="Home Page" width="300"/>
-</p>
 
  
 
